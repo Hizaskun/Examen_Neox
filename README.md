@@ -2,7 +2,7 @@
 Examen práctico Neox
 
 # Instrucciones
-- Ejecutar script ``Usuario.sql`` ubicado en la carpeta "Postman y BD"
+- Ejecutar script ``Usuario.sql`` (MySQL) ubicado en la carpeta "Postman y BD"
 - En caso de actualizacion de la BD ejecutar los siguientes comandos: 
 - - ``npx prisma introspect ``
 - - ``npx prisma generate``
@@ -15,6 +15,7 @@ Se utilizó:
 - Prisma Cli v4.6.1
 - Typescript v4.9.3
 - jsonwebtoken v8.5.1
+- MySQL
 
 # Contacto
 noelia.pinillar@gmail.com
